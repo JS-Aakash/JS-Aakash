@@ -23,7 +23,7 @@
 
 ### 🌐 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/js-aakash" target="_blank">
+  <a href="[https://linkedin.com/in/js-aakash](https://www.linkedin.com/in/js-aakash-199159352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat" />
   </a>
   <a href="mailto:jsaakash22@gmail.com">

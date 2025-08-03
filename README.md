@@ -13,11 +13,11 @@
 - 📫 Reach me at: **jsaakash22@gmail.com**
 
 ---
-
+<!--
 ### 🧠 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/JS_Aakash?theme=dark&font=Source%20Code%20Pro&ext=contest" />
-</p>
+</p> -->
 
 ---
 

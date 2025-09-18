@@ -3,7 +3,6 @@
 
 ---
 
-- 🔭 Currently building: **NearbyNow – A Firebase-powered geolocation messaging platform**
 - 🌱 Actively learning: **Data Structures & Algorithms, Flutter, C++ & Java**
 - 🛠️ Tech I use:  
   `HTML` `CSS` `JavaScript` `Firebase` `Python` `Tailwind CSS` `C` `C++` `Java`

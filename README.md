@@ -22,7 +22,7 @@
       </td>
       <td width="25%" style="padding: 8px;">
         🟢 <b>650+</b><br/>
-        <sub>GFG Problems Solved</sub>
+        <sub>GFG Solved</sub>
       </td>
       <td width="25%" style="padding: 8px;">
         🎓<b>8.98/10</b><br/>

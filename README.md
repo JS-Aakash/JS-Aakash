@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=180&section=header&text=Aakash%20JS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Full-Stack+%26+System+Design+Engineer;Predictive+Maintenance+%26+Industrial+AI;Applied+AI+%2F+ML+%26+RAG+Architect;Competitive+Programmer+(LeetCode+Knight)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Full-Stack+%26+System+Design+Engineer;Applied+AI+%2F+ML+%26+RAG+Architect;Competitive+Programmer+(LeetCode+Knight)" alt="Typing SVG" />
 
   <p align="center">
     <b>Software Developer</b> building high-performance backend systems, predictive AI pipelines, and cloud-native web applications.

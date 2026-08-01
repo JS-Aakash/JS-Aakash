@@ -1,58 +1,6 @@
-<!-- ========================================== -->
-<!-- 📍 OPTION 1: Sleek Rounded Gradient Banner -->
-<!-- ========================================== -->
 <div align="center">
-  <p><b>👇 OPTION 1: Sleek Rounded Gradient Banner</b></p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,100:4FACFE&height=160&section=header&text=Aakash%20JS&fontSize=42&fontColor=ffffff&fontAlignY=50" width="100%" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=180&section=header&text=Aakash%20JS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<br/>
-<hr/>
-<br/>
-
-<!-- ========================================== -->
-<!-- 📍 OPTION 2: Custom AI-Generated Graphic Banner -->
-<!-- ========================================== -->
-<div align="center">
-  <p><b>👇 OPTION 2: Custom AI-Generated Tech Banner</b></p>
-  <img src="./header_banner.png" width="100%" alt="Aakash JS Header Banner" />
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<!-- ========================================== -->
-<!-- 📍 OPTION 3: Clean Minimalist Markdown Header -->
-<!-- ========================================== -->
-<div align="center">
-  <p><b>👇 OPTION 3: Clean Minimalist Header</b></p>
-  <h1>⚡ Hi there, I'm Aakash JS 👋</h1>
-  <p><b>Software Developer | Full-Stack & System Design | Applied AI/ML Engineer</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Backend_%26_AI-00F2FE?style=flat-square" />
-    <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=flat-square&logo=leetcode" />
-    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-success?style=flat-square" />
-  </p>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<!-- ========================================== -->
-<!-- 📍 OPTION 4: Cyberpunk / Glowing Neon Banner -->
-<!-- ========================================== -->
-<div align="center">
-  <p><b>👇 OPTION 4: Cyberpunk / Glowing Neon Slice Banner</b></p>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Aakash%20JS&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%7C%20System%20Design%20%7C%20AI%20%26%20ML&descSize=18&descAlignY=65" width="100%" />
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Full-Stack+%26+System+Design+Engineer;Predictive+Maintenance+%26+Industrial+AI;Applied+AI+%2F+ML+%26+RAG+Architect;Competitive+Programmer+(LeetCode+Knight)" alt="Typing SVG" />
 
   <p align="center">

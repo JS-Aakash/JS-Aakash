@@ -13,7 +13,7 @@
   <table width="100%">
     <tr align="center">
       <td width="25%" style="padding: 8px;">
-        🚀 <b>900+</b><br/>
+        🚀 <b>1000+</b><br/>
         <sub>LeetCode Solved</sub>
       </td>
       <td width="25%" style="padding: 8px;">
@@ -21,7 +21,7 @@
         <sub>LeetCode Rating</sub>
       </td>
       <td width="25%" style="padding: 8px;">
-        🟢 <b>650+</b><br/>
+        🟢 <b>700+</b><br/>
         <sub>GFG Problems</sub>
       </td>
       <td width="25%" style="padding: 8px;">
@@ -40,7 +40,7 @@ Software Developer with hands-on experience in **Full-Stack Engineering**, **Sys
 
 - 🎓 **Education:** B.E. in **Computer Engineering & Design** @ *Kongu Engineering College* (CGPA: **8.98/10.0**).
 - ⚙️ **Core Focus:** Predictive Maintenance Platforms, Scalable Microservices, RAG & LLM Architectures, and Real-Time IoT Systems.
-- 💡 **Problem Solving:** Solved **900+ LeetCode** & **650+ GFG** problems; achieved **Knight Rating** on LeetCode.
+- 💡 **Problem Solving:** Solved **1000+ LeetCode** & **700+ GFG** problems; achieved **Knight Rating** on LeetCode.
 - 🏆 **Awards:** 1st Rank in DSA Contests (1st & 2nd year students) & recipient of **"Mr. Coder"** title.
 
 ---
